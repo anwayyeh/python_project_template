@@ -11,5 +11,3 @@ readme = "README.md"
 license = { text = "MIT" }
 dependencies = []
 
-[project.scripts]
-my-module-cli = "my_module.main:main"
